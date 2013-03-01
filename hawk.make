@@ -20,3 +20,4 @@ projects[bean][patch][] = "http://drupal.org/files/bean-1885958-setter-callbacks
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.5"
+
