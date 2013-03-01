@@ -1,0 +1,21 @@
+name = Hawk
+description = "An install profile that will fly!"
+core = 7.x
+
+; Dependencies: Core modules
+; ==============================================================================
+dependencies[] = contextual
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = image
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Dependencies: Contrib modules
+; ==============================================================================
+dependencies[] = views_ui
+dependencies[] = bean
