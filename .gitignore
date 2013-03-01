@@ -1,0 +1,31 @@
+# Project files, and other junk
+*.kpf
+#*.komodoproject
+.komodotools
+*.sublime-project
+*.sublime-workspace
+*.proj
+*.tmp
+.DS_Store?
+Icon?
+Thumbs.db
+.bundle
+
+# A place to keep non-versioned assets
+offline
+
+# Local settings.php file
+settings.php
+
+# Contrib modules
+modules/contrib
+
+# Contrib themes
+themes/contrib
+
+# Development modules
+modules/development
+
+# Libraries
+libraries
+.DS_Store
